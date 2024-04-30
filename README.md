@@ -5,4 +5,8 @@
 
 Mock API for GitLab Using Python3
 
-Usage - Clone this repo, run: `pytest`
+##### Usage 
+Install dependencies.
+`pip install -r requirements.txt`
+Run pytest
+`pytest`
