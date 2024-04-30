@@ -4,3 +4,5 @@
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 
 Mock API for GitLab Using Python3
+
+Usage - Clone this repo, run: `pytest`
